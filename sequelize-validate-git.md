@@ -1,6 +1,8 @@
 # Virtual Base Presentation
 
-## Table of contents
+> Presenter: Nasir Mehmood
+
+## Topics
 - [Git Commands](#git-commands)
 - [Sequelize ORM](#sequelize-orm)
 - [Validations](#validations)
